@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {
+    background-color: #45C4B0;
+}
+
+.cabecalho {
+    font-family: 'Agdasima', sans-serif;
+    text-shadow: 2px 2px 4px #9AEBA3;
+}
+
+.titulo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 49px;
+    padding: 10px;
+}
+
+.imagem1 {
+
+}
+
+.conteudo_principal {
+    display: flex;
+    margin: 5px;
+}
